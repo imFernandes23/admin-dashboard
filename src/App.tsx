@@ -44,7 +44,7 @@ function App() {
       element: <Layout/>,
       children:[
         {
-          path: "/",
+          path: "/admin-dashboard",
           element: <Home/>
         },
         {
